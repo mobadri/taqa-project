@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "taqa-project"
+    }
+  },
+  "defaultProject": "taqa-project",
+  "cli": {
+    "analytics": false
+  }
 }
